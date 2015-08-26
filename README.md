@@ -18,7 +18,7 @@ http://goo.gl/forms/I5epmPCg3e
 
 **TODOS OS COMUNICADOS SERÃO FEITOS ATRAVÉS DA LISTA DE E-MAIL.**
 
-[![http://www.phdcomics.com/comics.php?f=1790](images/phd032515s.jpg)](http://www.phdcomics.com/comics.php?f=1790)
+[![http://www.phdcomics.com/comics.php?f=1790](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/phd032515s.jpg)](http://www.phdcomics.com/comics.php?f=1790)
 
 
 ## Ementa
@@ -78,7 +78,7 @@ Será cobrada presença em sala de aula através assinatura de lista de presenç
 Alunos que faltarem a uma aula receberão zero na atividade prática daquela
 aula.  O limite de faltas em hora aula é de 18h (~3 aulas).
 
-## Plágio
+### Plágio
 
 **Cuidado com cópias e plágio.** Trabalhos que forem cópias integral ou parcial
 do trabalho de colegas ou de outras fontes receberão nota **zero**. Citem todas
@@ -144,7 +144,7 @@ longo do semestre.
 | 4    | 17-16/09 - 18/09 | Python: estruturação de um programa e funções |    |
 | 5    | 23-24/09 - 25/09 | Python: arrays, numpy e gráficos simples |    |
 | 6    | 30-01/10 - 02/10 | Introdução a métodos numéricos. Integração  |    |
-| 7    | 08-07/10 - 09/10 | Solução de sistemas lineares |    |
+| 7    | 07-08/10 - 09/10 | Solução de sistemas lineares |    |
 | 8    |  | Método dos mínimos quadrados e Interpolação |    |
 | 9    |  | Transformada de Fourier: parte 1 |    |
 | 10   |  | Transformada de Fourier: parte 2 |    |
