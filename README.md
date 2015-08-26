@@ -16,7 +16,10 @@ Use o link abaixo para cadastrar seu e-mail:
 
 http://goo.gl/forms/I5epmPCg3e
 
-**Todas as comunicações serão feitas pela lista.**
+**TODAS AS COMUNICAÇÕES SERÃO FEITAS ATRAVÉS DA LISTA DE E-MAIL.**
+
+[![http://www.phdcomics.com/comics.php?f=1790](http://www.phdcomics.com/comics/archive/phd032515s.gif)](http://www.phdcomics.com/comics.php?f=1790)
+
 
 ## Ementa
 
@@ -120,6 +123,7 @@ Vocês vão se deparar diversas vezes com o site
 quase sempre de qualidade.
 
 ## Cronograma
+
 
 
 ## License
