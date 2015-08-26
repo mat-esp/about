@@ -131,19 +131,19 @@ Em breve.
 
 | Aula | Data (T1 - T2) | Tema                                 | Prática   |
 |:----:|:---------------|:-------------------------------------|----------:|
-| 1    | 26-27/08 - 28/8  | Apresentação e introdução à logica de programação  |    |
-| 2    | 02-03/09 - 04/9  | Controle de versão com git                         |    |
-| 3    | 09-10/09 - 11/9  |                                  |    |
-| 4    | 17-16/09 - 18/9  |                                  |    |
-| 5    | 23-24/09 - 25/9  |                                  |    |
-| 6    | 30-01/10 - 02/10 |                                  |    |
-| 7    | 08-07/10 - 09/10 |                                  |    |
-| 8    |  |                                  |    |
-| 9    |  |                                  |    |
-| 10   |  |                                  |    |
-| 11   |  |                                  |    |
+| 1    | 26-27/08 - 28/8  | Apresentação e introdução a algoritmos e logica de programação  |    |
+| 2    | 02-03/09 - 04/9  | Unix shell (básico) e Controle de versão com git   |    |
+| 3    | 09-10/09 - 11/9  | Python: variáveis, loops e condições           |    |
+| 4    | 17-16/09 - 18/9  | Python: estruturação de um programa e funções |    |
+| 5    | 23-24/09 - 25/9  | Python: arrays, numpy e gráficos simples |    |
+| 6    | 30-01/10 - 02/10 | Introdução a métodos numéricos. Integração  |    |
+| 7    | 08-07/10 - 09/10 | Solução de sistemas lineares |    |
+| 8    |  | Método dos mínimos quadrados |    |
+| 9    |  | Interpolação |    |
+| 10   |  | |    |
+| 11   |  |  |    |
 | 12   |  |                                  |    |
-| 13   |  |                                  |    |
+| 13   |  | Solução de equações diferenciais parciais |    |
 | 14   |  |                                  |    |
 | 15   |  |                                  |    |
 
