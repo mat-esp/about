@@ -101,6 +101,9 @@ Python Scientific Lecture Notes.
 Pilgrim, M. (2004), Dive Into Python, Apress, Berkeley, CA : New York.
 [[disponível online](http://www.diveintopython.net/)]
 
+Numerical Methods, Wikibooks,
+[https://en.wikibooks.org/wiki/Numerical_Methods](https://en.wikibooks.org/wiki/Numerical_Methods)
+
 Press, W. H., Teukolsky, S. A, Vetterling, W. T. e Flannery, B. P. Numerical
 recipes in C: The art of scientific computing, second edition, Cambridge
 University Press, 1992
