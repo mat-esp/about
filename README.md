@@ -2,7 +2,20 @@
 
 Disciplina da graduação em Oceanografia da UERJ.
 
-**Professor**: [Leonardo Uieda](http://www.leouieda.com/)
+**Aulas:**
+
+* Turma 1: Quarta 15:10 - 17:50 e Quinta 12:30 - 14:20
+* Turma 2: Sexta 7:50 - 12:20
+
+**Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
+
+**Atendimento:** Segunda 13:30 - 14:30
+
+**Lista de e-mail:** Os alunos devem se cadastrar na
+lista de e-mail do curso. **Todas as comunicações serão feitas pela lista.**
+Use o link abaixo para cadastrar seu e-mail:
+
+http://goo.gl/forms/I5epmPCg3e
 
 
 ## License
