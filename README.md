@@ -18,7 +18,7 @@ http://goo.gl/forms/I5epmPCg3e
 
 **TODAS AS COMUNICAÇÕES SERÃO FEITAS ATRAVÉS DA LISTA DE E-MAIL.**
 
-[![http://www.phdcomics.com/comics.php?f=1790](http://www.phdcomics.com/comics/archive/phd032515s.gif)](http://www.phdcomics.com/comics.php?f=1790)
+[![http://www.phdcomics.com/comics.php?f=1790](images/phd032515s.jpg)](http://www.phdcomics.com/comics.php?f=1790)
 
 
 ## Ementa
