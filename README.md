@@ -16,7 +16,7 @@ Use o link abaixo para cadastrar seu e-mail:
 
 http://goo.gl/forms/I5epmPCg3e
 
-**TODAS AS COMUNICAÇÕES SERÃO FEITAS ATRAVÉS DA LISTA DE E-MAIL.**
+**TODOS OS COMUNICADOS SERÃO FEITOS ATRAVÉS DA LISTA DE E-MAIL.**
 
 [![http://www.phdcomics.com/comics.php?f=1790](images/phd032515s.jpg)](http://www.phdcomics.com/comics.php?f=1790)
 
@@ -122,8 +122,30 @@ Vocês vão se deparar diversas vezes com o site
 é um dos melhores e mais utilizados recursos para programação. As repostas são
 quase sempre de qualidade.
 
+
+## Software
+
+Em breve.
+
 ## Cronograma
 
+| Aula | Data (T1 - T2) | Tema                                 | Prática   |
+|:----:|:---------------|:-------------------------------------|----------:|
+| 1    | 26-27/08 - 28/8  | Apresentação e introdução à logica de programação  |    |
+| 2    | 02-03/09 - 04/9  | Controle de versão com git                         |    |
+| 3    | 09-10/09 - 11/9  |                                  |    |
+| 4    | 17-16/09 - 18/9  |                                  |    |
+| 5    | 23-24/09 - 25/9  |                                  |    |
+| 6    | 30-01/10 - 02/10 |                                  |    |
+| 7    | 08-07/10 - 09/10 |                                  |    |
+| 8    |  |                                  |    |
+| 9    |  |                                  |    |
+| 10   |  |                                  |    |
+| 11   |  |                                  |    |
+| 12   |  |                                  |    |
+| 13   |  |                                  |    |
+| 14   |  |                                  |    |
+| 15   |  |                                  |    |
 
 
 ## License
