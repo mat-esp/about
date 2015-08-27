@@ -125,7 +125,58 @@ quase sempre de qualidade.
 
 ## Software
 
-Em breve.
+Vocês precisarão de alguns programas para realizar as atividades práticas e o
+projeto:
+
+* [Python](https://www.python.org/): linguagem de programação que vamos
+  utilizar
+* [git](http://www.git-scm.com/): sistema de controle de versão
+* [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29): "Bourne Again
+  Shell" para executar programas na linha de comando
+* Algum editor de texto (Notepad, Gedit, etc)
+
+Levarei os instaladores necessários durante a aula para que instalem tudo. Caso
+queriam instalar em outro computador, ou tentar instalar em casa, siga as instruções abaixo.
+
+Se tiver problemas, escreva para a lista de e-mails.
+
+### Windows
+
+* Baixe e instale o [git for Windows](https://git-for-windows.github.io/). Com
+  isso você terá acesso ao git e ao bash.
+* Baixe e instale o [Anaconda Python
+  Distribution](http://continuum.io/downloads#py34). Selecione o instalador que
+  reflete o seu sistema (Windows, 32 ou 64bits). Utilize [esse
+  guia](http://windows.microsoft.com/en-US/windows7/find-out-32-or-64-bit) para
+  saber se seu computador é 32 ou 64bits. Tenha certeza de que está baixando
+  a versão do **Python 3.4**, não a 2.7.
+* Baixe e instale o [Notepad++](https://notepad-plus-plus.org/)
+
+### Linux
+
+* Você já deve ter o bash instalado.
+* Você também já deve ter um editor de texto instalado.
+* Instale o git pelo seu gerenciador de pacotes. Por exemplo, no Ubuntu e
+  derivados digite em um terminal: `sudo apt-get install git`
+* Baixe e instale o [Anaconda Python
+  Distribution](http://continuum.io/downloads#py34). Selecione o instalador que
+  reflete o seu sistema (Linux, 32 ou 64bits). Tenha certeza de que está baixando
+  a versão do **Python 3.4**, não a 2.7.
+
+### Mac
+
+* Você já deve ter o bash instalado. Procure o aplicativo "Terminal" em
+  `/Applications/Utilities`.
+* Para instalar o git: **MacOS > 10.9**, baixe e instale o mais recente
+  instalador com nome "mavericks"
+  [dessa lista](http://sourceforge.net/projects/git-osx-installer/files/).
+  **MacOS10.5-10.8**, use o instalador com nome "snow-leopard" da lista.
+* Baixe e instale o editor de texto
+  [Sublime Text](http://www.sublimetext.com/).
+* Baixe e instale o [Anaconda Python
+  Distribution](http://continuum.io/downloads#py34). Selecione o instalador que
+  reflete o seu sistema (Mac OSX). Tenha certeza de que está baixando
+  a versão do **Python 3.4**, não a 2.7.
 
 ## Projeto
 
