@@ -187,23 +187,23 @@ Em breve.
 Esse cronograma ainda não é definitivo. Provavelmente sofrerá alterações ao
 longo do semestre.
 
-| Aula | Data (T1 - T2) | Tema                                 | Prática   |
-|:----:|:---------------|:-------------------------------------|:---------:|
-| 1    | 26-27/08 - 28/08 | Apresentação e introdução a algoritmos e logica de programação  | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2    | 02-03/09 - 04/09 | Unix shell (básico) e Controle de versão com git   |    |
-| 3    | 09-10/09 - 11/09 | Python: variáveis, loops e condições           |    |
-| 4    | 17-16/09 - 18/09 | Python: estruturação de um programa e funções |    |
-| 5    | 23-24/09 - 25/09 | Python: arrays, numpy e gráficos simples |    |
-| 6    | 30-01/10 - 02/10 | Introdução a métodos numéricos. Integração  |    |
-| 7    | 07-08/10 - 09/10 | Solução de sistemas lineares |    |
-| 8    |  | Método dos mínimos quadrados e Interpolação |    |
-| 9    |  | Transformada de Fourier: parte 1 |    |
-| 10   |  | Transformada de Fourier: parte 2 |    |
-| 11   |  | Solução de equações diferenciais parciais: método das diferenças finitas |    |
-| 12   |  | Solução numérica da equação de difusão |    |
-| 13   |  | Solução numérica da equação da onda  |    |
-| 14   |  | Triângulos esféricos e representação de dados em mapas |    |
-| 15   |  | Apresentação dos projetos |    |
+| Aula | Data (T1 - T2) | Tema                                 | Leitura | Prática   |
+|:----:|:---------------|:-------------------------------------|:---------:|:---------:|
+| 1    | 26-27/08 - 28/08 | Apresentação e introdução a algoritmos e logica de programação |  | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
+| 2    | 02-03/09 - 04/09 | Unix shell (básico) e Controle de versão com git   | [Tutorial de git](https://try.github.io/levels/1/challenges/1), [Arquivos e pastas](http://swcarpentry.github.io/shell-novice/01-filedir.html)   | |
+| 3    | 09-10/09 - 11/09 | Python: variáveis, loops e condições           |    | |
+| 4    | 17-16/09 - 18/09 | Python: estruturação de um programa e funções |    | |
+| 5    | 23-24/09 - 25/09 | Python: arrays, numpy e gráficos simples |    | |
+| 6    | 30-01/10 - 02/10 | Introdução a métodos numéricos. Integração  |     ||
+| 7    | 07-08/10 - 09/10 | Solução de sistemas lineares |    | |
+| 8    |  | Método dos mínimos quadrados e Interpolação |    | |
+| 9    |  | Transformada de Fourier: parte 1 |    | |
+| 10   |  | Transformada de Fourier: parte 2 |    | |
+| 11   |  | Solução de equações diferenciais parciais: método das diferenças finitas |    | |
+| 12   |  | Solução numérica da equação de difusão |    | |
+| 13   |  | Solução numérica da equação da onda  |    | |
+| 14   |  | Triângulos esféricos e representação de dados em mapas |    | |
+| 15   |  | Apresentação dos projetos |    | |
 
 
 ## License
