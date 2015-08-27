@@ -138,7 +138,7 @@ projeto:
 Levarei os instaladores necessários durante a aula para que instalem tudo. Caso
 queriam instalar em outro computador, ou tentar instalar em casa, siga as instruções abaixo.
 
-Se tiver problemas, escreva para a lista de e-mails.
+**Se tiver problemas, escreva para a lista de e-mails.**
 
 ### Windows
 
