@@ -51,6 +51,6 @@ Não faça coisas que não estão escritas nas instruções.
 ## Discussão
 
 * O que foi mais difícil, pensar em um método ou explicá-lo?
-* Vocês seguiram mesmo as instruções **literalmente**?
+* Vocês seguiram mesmo as instruções dos colegas **literalmente**?
 * O que devemos manter em mente quando escrevendo instruções para um
   computador?
