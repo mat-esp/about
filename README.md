@@ -136,7 +136,11 @@ projeto:
 * Algum editor de texto (Notepad, Gedit, etc)
 
 Levarei os instaladores necessários durante a aula para que instalem tudo. Caso
-queriam instalar em outro computador, ou tentar instalar em casa, siga as instruções abaixo.
+queriam instalar em outro computador, ou tentar instalar em casa, siga as
+instruções abaixo.
+
+Vocês também devem criar uma conta gratuita no site
+[github.com](https://github.com/)
 
 **Se tiver problemas, escreva para a lista de e-mails.**
 
