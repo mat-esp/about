@@ -29,7 +29,7 @@ de comando.
 
 1. Abra o terminal e imprima qual diretório você está
 2. Navegue até o Desktop e imprima todos os arquivos e pastas que estão nele
-3. Crie uma pasta chamada `pratica-git-mat-esp` em outra pasta que não seja o
+3. Crie uma pasta chamada `pratica-shell` em outra pasta que não seja o
    Desktop
 4. Entre na pasta criada
 5. Crie um arquivo chamado `intro-shell.txt` nessa pasta utilizando um editor
@@ -61,23 +61,27 @@ para abrigar os arquivos editados durante essa aula.
 Preparação:
 
 0. Anote e explique todos os passos e comandos utilizados em um arquivo
-   `intro-git.txt` na pasta `pratica-git-mat-esp`
-1. Utilizando o terminal, entre na pasta `pratica-git-mat-esp` e crie
-   (inicialize) um repositório nela
-2. Liste todos os arquivos dessa pasta (inclusive os ocultos) e verifique se a
-   pasta `.git` foi criada
+   `intro-git.txt`. Crie esse arquivo onde achar melhor.
+1. Utilizando o terminal, crie uma pasta chamada `repo` que abrigará nosso
+   repositório.
+2. Entre na pasta `repo` e crie (inicialize) um repositório nela
+2. Liste todos os arquivos dessa pasta e veja o que o git criou
 3. Em um papel, faça um desenho esquemático dos repositórios e o fluxo dos
-   commits ao longo dessa prática.
+   commits ao longo dessa prática. Atualize o desenho enquanto faz as tarefas.
 
 Escolha um dos membros do grupo para começar a prática.
 
+1. Crie um *clone* do repositório e chame-o de `pratica-git-nome` (trocando
+   `nome` por seu nome).
+2. Entre no seu clone.
 1. Configure o git para utilizar o nome, email e user name do Github dessa
    pessoa.
-2. Essa pessoa deverá adicionar o arquivo `alunos.txt` e fazer um commit com
+4. Copie o arquivo `alunos.txt` e `intro-shell.txt` para seu clone.
+2. Adicione o arquivo `alunos.txt` e faça um commit com
    essas mudanças. **Sempre que fizer um commit,
    escreva uma mensagem de commit descritiva e que explique detalhadamente tudo
    o que fez (e por que)**.
-3. Verifique o histórico do seu repositório e confirme que o commit feito
+3. Verifique o histórico do seu clone e confirme que o commit feito
    apareceu.
 4. Adicione e faça o commit do arquivo `intro-shell.txt`. Verifique o histórico
    do repositório.
@@ -85,21 +89,22 @@ Escolha um dos membros do grupo para começar a prática.
    repositório.
 5. Adicione e faça o *commit* desse arquivo. Verifique o histórico do
    repositório.
+7. Empurre seus commits para o repositório original (o *remoto*).
+9. Navegue até o repositório remoto e verifique o histórico dele.
 
 Troque o membro do grupo que irá trabalhar.
 
-1. Essa pessoa deverá criar um *clone* do repositório com o nome
-   `pratica-git-mat-esp-NOME` (substituindo `NOME` por seu nome).
-2. Repita o processo criando clones para cada membro do grupo.
-3. Entre na pasta do clone da pessoa e verifique o histórico do repositório.
+1. Essa pessoa deverá criar um *clone* do remoto (o original) com o nome
+   `pratica-git-nome` (substituindo `nome` por seu nome).
+2. Repita o processo criando clones para os membros do grupo que faltam.
+3. Entre na pasta do seu clone e verifique o histórico do repositório.
 2. Configure o git para utilizar o nome, email e user name do Github dessa
    pessoa.
 6. Escreva no arquivo `bubble-sort.txt` a **primeira versão** das instruções
    que vocês criaram para ordenar as cartas na aula passada.
 7. Adicione e faça o commit dessas mudanças. Verifique o histórico do
    repositório.
-8. Mande (empurre) seus commits para o repositório original (o pai, ou
-   *remoto*).
+8. Mande (empurre) seus commits para o remoto (original).
 9. Navegue até o repositório remoto e verifique o histórico dele.
 
 Troque novamente o membro do grupo.
@@ -135,18 +140,27 @@ Troque novamente o membro do grupo.
 
 Em conjunto agora:
 
-1. criem um repositório no Github com o nome `pratica-git-mat-esp` na conta de
+1. criem um repositório no Github com o nome `pratica-git` na conta de
    um dos alunos.
-2. Adicione o repositório do Github como um remoto no repositório original que
+2. Adicione o repositório do Github como um remoto em um dos clones que
    vocês criaram (no próprio computador). Utilizem o nome *upstream*.
 3. Configure o git com as informações do aluno que criou o repositório no
    Github
+4. Puxe os commits que faltam do remoto local (para ter certeza de que seu
+   clone está atualizado).
 4. Empurre os commits do repositório local para o remoto no Github.
 5. Criem uma *Issue*  no repositório da disciplina
    (https://github.com/leouieda/matematica-especial). O título deverá ser
    "Prática git: Aluno1, Aluno2, Aluno3" (substituindo por seus nomes). No
    texto, coloque seus nomes completos e o link para o repositório que fizeram na
    prática.
+
+**Bônus 1**: tire uma foto do seu desenho dos repositórios e fluxos de commits
+e adicione ela em seu repositório. Lembre de mandar as mudanças para o Github.
+
+**Bônus 2**: responda as perguntas abaixo (Discussão) em um arquivo `.txt`.
+Adicione-o em seu repositório e mande as mudanças para o Github. Por favor,
+copie as perguntas para o arquivo também.
 
 Eu e o monitor vamos corrigir os repositórios que vocês submeteram. Deixaremos
 comentários e correções na forma de *Issues* em seu repositório. Vocês terão a
