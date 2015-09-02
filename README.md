@@ -136,7 +136,11 @@ projeto:
 * Algum editor de texto (Notepad, Gedit, etc)
 
 Levarei os instaladores necessários durante a aula para que instalem tudo. Caso
-queriam instalar em outro computador, ou tentar instalar em casa, siga as instruções abaixo.
+queriam instalar em outro computador, ou tentar instalar em casa, siga as
+instruções abaixo.
+
+Vocês também devem criar uma conta gratuita no site
+[github.com](https://github.com/)
 
 **Se tiver problemas, escreva para a lista de e-mails.**
 
@@ -190,7 +194,7 @@ longo do semestre.
 | Aula | Data (T1 - T2) | Tema                                 | Leitura | Prática   |
 |:----:|:---------------|:-------------------------------------|:---------:|:---------:|
 | 1    | 26-27/08 - 28/08 | Apresentação e introdução a algoritmos e logica de programação |  | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2    | 02-03/09 - 04/09 | Unix shell (básico) e Controle de versão com git   | [Tutorial de git](https://try.github.io/levels/1/challenges/1), [Arquivos e pastas](http://swcarpentry.github.io/shell-novice/01-filedir.html)   | |
+| 2    | 02-03/09 - 04/09 | Unix shell (básico) e Controle de versão com git   | [Introdução ao shell](http://swcarpentry.github.io/shell-novice/00-intro.html), [Arquivos e pastas](http://swcarpentry.github.io/shell-novice/01-filedir.html), [Tutorial interativo de git](https://try.github.io/levels/1/challenges/1), [Lição de git](http://swcarpentry.github.io/git-novice/) | |
 | 3    | 09-10/09 - 11/09 | Python: variáveis, loops e condições           |    | |
 | 4    | 17-16/09 - 18/09 | Python: estruturação de um programa e funções |    | |
 | 5    | 23-24/09 - 25/09 | Python: arrays, numpy e gráficos simples |    | |
