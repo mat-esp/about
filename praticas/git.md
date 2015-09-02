@@ -54,13 +54,44 @@ Leitura recomendada:
 ### Tarefa
 
 Nessa tarefa, vamos utilizar os comandos aprendidos para criar um repositório
-para abrigar os arquivos editados durante essa aula
+para abrigar os arquivos editados durante essa aula.
+
+Preparação:
 
 0. Anote e explique todos os passos e comandos utilizados em um arquivo
    `intro-git.txt` na pasta `pratica-git-mat-esp`
 1. Utilizando o terminal, entre na pasta `pratica-git-mat-esp` e crie
    (inicialize) um repositório nela
-2. Liste todos os arquivos dessa pasta (inclusive os ocultos) e verifique que a
+2. Liste todos os arquivos dessa pasta (inclusive os ocultos) e verifique se a
    pasta `.git` foi criada
-3. Escolha um dos membros do grupo para começar a prática. Configure o git para
-   utilizar o nome
+
+Escolha um dos membros do grupo para começar a prática.
+
+1. Configure o git para utilizar o nome, email e user name do Github dessa
+   pessoa.
+2. Essa pessoa deverá adicionar o arquivo `alunos.txt` e fazer um commit com
+   essas mudanças. **Sempre que fizer um commit,
+   escreva uma mensagem de commit descritiva e que explique detalhadamente tudo
+   o que fez (e por que)**.
+3. Verifique o histórico do seu repositório e confirme que o commit feito
+   apareceu.
+4. Adicione e faça o commit do arquivo `intro-shell.txt`. Verifique o histórico
+   do repositório.
+
+Troque o membro do grupo que irá trabalhar.
+
+1. Essa pessoa deverá criar um *clone* do repositório com o nome
+   `pratica-git-mat-esp-NOME` (substituindo `NOME` por seu nome).
+2. Configure o git para utilizar o nome, email e user name do Github dessa
+   pessoa.
+3. Entre na pasta do clone e verifique o histórico do repositório.
+4. Crie um arquivo vazio chamado `bubble-sort.txt` no
+   repositório.
+5. Adicione e faça o *commit* desse arquivo. Verifique o histórico do
+   repositório.
+6. Escreva no arquivo a **primeira versão** das instruções que vocês criaram
+   para ordenar as cartas na aula passada.
+7. Adicione e faça o commit dessas mudanças. Verifique o histórico do
+   repositório.
+8. Mande (empurre) seus commits para o repositório original (o pai, ou
+   *upstream*).
