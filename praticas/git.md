@@ -13,8 +13,13 @@ Leitura recomendada:
 ### Tarefa
 
 
-## git
+## Controle de versão
 
+O problema que queremos evitar com o uso de sistemas de controle de versão é
+representado perfeitamente nesse quadrinho do
+[PHD Comics](http://phdcomics.com/comics.php):
+
+[![http://www.phdcomics.com/comics/archive.php?comicid=1531](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/phd101212s.jpg)](http://www.phdcomics.com/comics/archive.php?comicid=1531)
 
 Leitura recomendada:
 
