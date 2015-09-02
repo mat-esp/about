@@ -21,7 +21,9 @@ Porém, vocês terão que seguir algumas regras:
 2. Uma vez desviradas, a única operação permitida é **trocar** essas duas
    cartas de lugar (entre si).
 3. Depois de trocar (ou não) as duas cartas, **vire-as de volta**.
-4. Uma vez desviradas, considere que você **esqueceu o valor** das cartas.
+4. Uma vez desviradas, considere que você **esqueceu o valor** das cartas. Você
+   pode lembrar, por exemplo, que a carta da direita é a menor, mas não qual é
+   o valor específico das cartas.
 
 Determinem um método para colocar as cartas em ordem seguindo essas regras.
 Imagine que esse método deve funcionar para qualquer conjunto de 5 cartas.
@@ -48,9 +50,23 @@ Execute as instruções do grupo e veja se consegue colocar as cartas em ordem.
 Seja o operador mais burro que conseguir.
 Não faça coisas que não estão escritas nas instruções.
 
+## Tarefa 3
+
+Tente reescrever suas instruções para eliminar a repetição. Por exemplo, tente
+condensar as instruções abaixo:
+
+    Desvire a carta A e a carta B, compare as duas e faça bla bla bla...
+    Desvire a carta A e a carta C, compare as duas e faça bla bla bla...
+    Desvire a carta A e a carta D, compare as duas e faça bla bla bla...
+    Desvire a carta A e a carta E, compare as duas e faça bla bla bla...
+
+em uma única instrução. **Bônus**: faça isso de uma forma que a mesma instrução
+possa ser aplicada para um número qualquer de cartas.
+
 ## Discussão
 
 * O que foi mais difícil, pensar em um método ou explicá-lo?
 * Vocês seguiram mesmo as instruções dos colegas **literalmente**?
-* O que devemos manter em mente quando escrevendo instruções para um
-  computador?
+* As suas instruções podem ser aplicadas a um número maior de cartas (sem
+  modificação)?
+* O que ganhamos quando generalizamos e agrupamos as operações?
