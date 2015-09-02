@@ -2,6 +2,18 @@
 
 ## Objetivos
 
+* Familiarizar o aluno com a linha de comando (terminal, shell)
+* Aprender a utilizar o programa git para controle de versão
+* Entender como o controle de versão facilita a colaboração e a organização
+
+## Preparação
+
+Siga as instruções no [site da
+disciplina](http://www.leouieda.com/matematica-especial/) para instalar os
+programas necessários no seu sistema.
+
+Você também precisará de uma conta no site [github.com](https://github.com/)
+
 ## Introdução ao shell
 
 Leitura recomendada:
@@ -12,6 +24,19 @@ Leitura recomendada:
 
 ### Tarefa
 
+Essa tarefa servirá para treinar os comandos básicos para movimentação na linha
+de comando.
+
+1. Abra o terminal e imprima qual diretório você está
+2. Navegue até o Desktop e imprima todos os arquivos e pastas que estão nele
+3. Crie uma pasta chamada `pratica-git-mat-esp` em outra pasta que não seja o
+   Desktop
+4. Entre na pasta criada
+5. Crie um arquivo chamado `intro-shell.txt` nessa pasta utilizando um editor
+   de texto
+6. Nesse arquivo, liste e explique cada passo e comando utilizado nessa tarefa
+7. Crie um arquivo `alunos.txt` nessa pasta utilizando um editor de texto
+8. Coloque o nome de cada aluno do grupo no arquivo e salve-o
 
 ## Controle de versão
 
@@ -23,9 +48,19 @@ representado perfeitamente nesse quadrinho do
 
 Leitura recomendada:
 
-* [Lição de git](http://swcarpentry.github.io/git-novice/)
+* [Introdução ao git](http://swcarpentry.github.io/git-novice/)
 * [Tutorial interativo de git](https://try.github.io/levels/1/challenges/1)
 
 ### Tarefa
 
-Liste na ordem e explique os comandos que você utilizou para realizar a tarefa.
+Nessa tarefa, vamos utilizar os comandos aprendidos para criar um repositório
+para abrigar os arquivos editados durante essa aula
+
+0. Anote e explique todos os passos e comandos utilizados em um arquivo
+   `intro-git.txt` na pasta `pratica-git-mat-esp`
+1. Utilizando o terminal, entre na pasta `pratica-git-mat-esp` e crie
+   (inicialize) um repositório nela
+2. Liste todos os arquivos dessa pasta (inclusive os ocultos) e verifique que a
+   pasta `.git` foi criada
+3. Escolha um dos membros do grupo para começar a prática. Configure o git para
+   utilizar o nome
