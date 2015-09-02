@@ -64,6 +64,8 @@ Preparação:
    (inicialize) um repositório nela
 2. Liste todos os arquivos dessa pasta (inclusive os ocultos) e verifique se a
    pasta `.git` foi criada
+3. Em um papel, faça um desenho esquemático dos repositórios e o fluxo dos
+   commits ao longo dessa prática.
 
 Escolha um dos membros do grupo para começar a prática.
 
@@ -82,9 +84,10 @@ Troque o membro do grupo que irá trabalhar.
 
 1. Essa pessoa deverá criar um *clone* do repositório com o nome
    `pratica-git-mat-esp-NOME` (substituindo `NOME` por seu nome).
+2. Repita o processo criando clones para cada membro do grupo.
+3. Entre na pasta do clone e verifique o histórico do repositório.
 2. Configure o git para utilizar o nome, email e user name do Github dessa
    pessoa.
-3. Entre na pasta do clone e verifique o histórico do repositório.
 4. Crie um arquivo vazio chamado `bubble-sort.txt` no
    repositório.
 5. Adicione e faça o *commit* desse arquivo. Verifique o histórico do
@@ -95,3 +98,21 @@ Troque o membro do grupo que irá trabalhar.
    repositório.
 8. Mande (empurre) seus commits para o repositório original (o pai, ou
    *upstream*).
+9. Navegue até o repositório upstream e verifique o histórico dele.
+
+Troque novamente o membro do grupo.
+
+1. Entre na pasta referente ao clone dessa pessoa.
+2. Configure o git para essa pessoa.
+3. Verifique quais são os *remotos* de seu clone (ele é clone de quem?).
+3. Verifique o histórico do repositório. Como está esse clone em relação aos
+   outros e ao upstream?
+4. Atualize seu clone com os commits do upstream.
+5. Edite o arquivo `bubble-sort.txt` para refletir a versão do método que foi
+   elaborada em aula agrupando as operações repetidas.
+6. Adicione e faça o commit de suas mudanças.
+7. Mande (empurre) seus commits para o upstream
+8. Volte o repositório para a versão do arquivo `bubble-sort.txt` que contem o
+   as instruções originais.
+9. Volte o repositório para a versão mais atual.
+
