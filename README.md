@@ -122,8 +122,7 @@ Vocês vão se deparar diversas vezes com o site
 é um dos melhores e mais utilizados recursos para programação. As repostas são
 quase sempre de qualidade.
 
-Dicas para usar o terminal: [Notas de aula Métodos Computacionais em Física, UFRJ],
-(http://www.if.ufrj.br/~sandra/MetComp/doc/unix_helder.pdf). Mais dicas e material na página da [disciplina](http://www.if.ufrj.br/~sandra/MetComp/2012-2/)
+Dicas para usar o terminal: [Notas de aula Métodos Computacionais em Física, UFRJ](http://www.if.ufrj.br/~sandra/MetComp/doc/unix_helder.pdf). Mais dicas e material na página da [disciplina](http://www.if.ufrj.br/~sandra/MetComp/2012-2/)
 
 Uma boa introdução ao linux em Português [aqui](http://www.guiafoca.org/?page_id=14)
 
