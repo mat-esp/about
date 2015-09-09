@@ -1,5 +1,7 @@
 # Matemática Especial I (IME03-1366)
 
+![](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/mesh.png)
+
 Disciplina da graduação em Oceanografia da UERJ.
 
 **Aulas:**
