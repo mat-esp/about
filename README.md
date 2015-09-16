@@ -209,9 +209,9 @@ longo do semestre.
 |:-----:|:-------------------------------------|:---------:|:---------:|
 | 1     | Apresentação e introdução a algoritmos e logica de programação |  | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
 | 2     | Unix shell (básico) e Controle de versão com git   | [Introdução ao shell](http://swcarpentry.github.io/shell-novice/00-intro.html), [Arquivos e pastas](http://swcarpentry.github.io/shell-novice/01-filedir.html), [Tutorial interativo de git](https://try.github.io/levels/1/challenges/1), [Lição de git](http://swcarpentry.github.io/git-novice/) | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
-| 3     | Python: variáveis, loops e condições  | [Lições de Python do Software Carpentry](http://software-carpentry.org/lessons.html), [Tutorial matplotlib](http://scipy-lectures.github.io/intro/matplotlib/matplotlib.html), [Galeria matplotlib](http://matplotlib.org/gallery.html)    | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
-| 4     | Python: estruturação de um programa e funções |    | |
-| 5     | Python: arrays, numpy e gráficos simples |    | |
+| 3     | Python: variáveis, loops, condições, leitura de arquivos e gráficos simples  | [Lições de Python do Software Carpentry](http://software-carpentry.org/lessons.html), [Tutorial matplotlib](http://scipy-lectures.github.io/intro/matplotlib/matplotlib.html), [Galeria matplotlib](http://matplotlib.org/gallery.html)    | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
+| 4     | Python: estruturação de um programa, funções e programação defensiva |    | |
+| 5     | Python: numpy, mapas e gráficos avançados  |    | |
 | 6     | Introdução a métodos numéricos. Integração  |     ||
 | 7     | Solução de sistemas lineares |    | |
 | 8     | Método dos mínimos quadrados e Interpolação |    | |
