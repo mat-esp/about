@@ -9,8 +9,8 @@ Disciplina da graduação em Oceanografia da UERJ.
 * Turma 1: Quarta 15:10 - 17:50 e Quinta 12:30 - 14:20
 * Turma 2: Sexta 7:50 - 12:20
 
-**ATENÇÃO**: As aulas das duas turmas serão ministradas na sala 6145-2F a
-partir do dia 10/09/2015.
+**ATENÇÃO**: As aulas das duas turmas serão ministradas na sala ~~6145-2F a
+partir do dia 10/09/2015~~ 6134F a partir do dia 16/09/2015.
 
 **Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
 
