@@ -96,17 +96,13 @@ suas fontes de informação (mesmo que seja a Wikipedia).
 
 ## Bibliografia
 
-[Software Carpentry v5.3: Version control with
-git](http://swcarpentry.github.io/git-novice/)
+[Software Carpentry](http://software-carpentry.org/). 
+Especificamente as lições:
 
-[Software Carpentry v5.3: The Unix
-Shell](http://swcarpentry.github.io/shell-novice/)
-
-[Software Carpentry v5.3: Programming with
-Python](http://swcarpentry.github.io/python-novice-inflammation/)
-
-[Software Carpentry v4:
-Python](http://software-carpentry.org/v4/python/index.html)
+* Version control with git (v5.3)
+* The Unix Shell (v5.3)
+* Programming with Python (v5.3)
+* Programming with Python (v4)
 
 Python Scientific Lecture Notes.
 [http://scipy-lectures.github.io/](http://scipy-lectures.github.io/)
