@@ -1,6 +1,6 @@
 # Matemática Especial I (IME03-1366)
 
-![](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/mesh.png)
+![images/mesh.png](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/mesh.png)
 
 Disciplina da graduação em Oceanografia da UERJ.
 
@@ -96,7 +96,7 @@ suas fontes de informação (mesmo que seja a Wikipedia).
 
 ## Bibliografia
 
-[Software Carpentry](http://software-carpentry.org/). 
+[Software Carpentry](http://software-carpentry.org/).
 Especificamente as lições:
 
 * Version control with git (v5.3)
@@ -225,3 +225,9 @@ longo do semestre.
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">"Material didático da disciplina Matemática Especial"</span>
 by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.leouieda.com/" property="cc:attributionName" rel="cc:attributionURL">Leonardo Uieda</a> is licensed under a
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Credits
+
+Original logo image
+([images/mesh.png](https://github.com/leouieda/matematica-especial/blob/master/images/mesh.png))
+by [NASA Goddard Space Flight Center](https://flic.kr/p/ch8t4W).
