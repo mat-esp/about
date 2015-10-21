@@ -201,23 +201,23 @@ Em breve.
 Esse cronograma ainda não é definitivo. Provavelmente sofrerá alterações ao
 longo do semestre.
 
-| Aula  | Tema                                 | Leitura | Prática   |
-|:-----:|:-------------------------------------|:---------:|:---------:|
-| 1     | Apresentação e introdução a algoritmos e logica de programação | [Software Carpentry: Introdução](http://software-carpentry.org/v4/python/intro.html)  | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2     | Unix shell (básico) e Controle de versão com git   | [Introdução ao shell](http://swcarpentry.github.io/shell-novice/00-intro.html), [Arquivos e pastas](http://swcarpentry.github.io/shell-novice/01-filedir.html), [Tutorial interativo de git](https://try.github.io/levels/1/challenges/1), [Lição de git](http://swcarpentry.github.io/git-novice/) | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
-| 3     | Python: variáveis, loops, condições e gráficos simples  | [Lições de Python do Software Carpentry](http://software-carpentry.org), [Tutorial matplotlib](http://scipy-lectures.github.io/intro/matplotlib/matplotlib.html), [Galeria matplotlib](http://matplotlib.org/gallery.html)    | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
-| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples | [Projeto Jupyter](http://jupyter.org/), [Lições de Python v4 do Software Carpentry](http://software-carpentry.org) , [Lições de Python v5.3 do Software Carpentry](http://software-carpentry.org) | [python-intro-2](https://github.com/mat-esp-uerj/python-intro-2) |
-| 5     | Python: estruturação de um programa, funções e programação defensiva |    | |
-| 6     | Introdução a métodos numéricos. Integração  |     ||
-| 7     | Solução de sistemas lineares |    | |
-| 8     | Método dos mínimos quadrados e Interpolação |    | |
-| 9     | Transformada de Fourier: parte 1 |    | |
-| 10    | Transformada de Fourier: parte 2 |    | |
-| 11    | Solução de equações diferenciais parciais: método das diferenças finitas |    | |
-| 12    | Solução numérica da equação de difusão |    | |
-| 13    | Solução numérica da equação da onda  |    | |
-| 14    | Triângulos esféricos e representação de dados em mapas |    | |
-| 15    | Apresentação dos projetos |    | |
+**Cada prática inclui links e referências para o material relevante.**
+
+| Aula  | Tema                                 | Prática   |
+|:-----:|:-------------------------------------|:---------:|
+| 1     | Apresentação e introdução a algoritmos e logica de programação | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
+| 2     | Unix shell (básico) e Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
+| 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
+| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples |  [python-intro-2](https://github.com/leouieda/python-intro-2) |
+| 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
+| 6     | Matrizes e vetores | |
+| 7     | Solução de sistemas lineares | |
+| 8     | Python: estruturação de um programa, funções e programação defensiva | |
+| 9     | Método dos mínimos quadrados | |
+| 10    | Transformada de Fourier | |
+| 11    | Solução de equações diferenciais parciais: método das diferenças finitas | |
+| 12    | Triângulos esféricos e representação de dados em mapas | |
+| 13    | Apresentação dos projetos | |
 
 
 ## License
