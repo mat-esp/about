@@ -210,7 +210,7 @@ longo do semestre.
 | 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
 | 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples |  [python-intro-2](https://github.com/leouieda/python-intro-2) |
 | 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
-| 6     | Matrizes e vetores | |
+| 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
 | 7     | Solução de sistemas lineares | |
 | 8     | Python: estruturação de um programa, funções e programação defensiva | |
 | 9     | Método dos mínimos quadrados | |
