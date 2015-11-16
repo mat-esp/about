@@ -62,7 +62,7 @@ As práticas serão feitas em grupo, geralmente no computador. Por favor,
 **tragam seus laptops para a aula**. Alunos que não possuem computador não
 serão prejudicados. Precisaremos de ao menos um computador por grupo.
 
-Textos, códigos, slides, etc estarão disponíveis no site da disciplina.
+Textos, códigos, slides, etc estarão disponíveis nesse site.
 
 ## Avaliação
 
@@ -206,18 +206,17 @@ longo do semestre.
 | Aula  | Tema                                 | Prática   |
 |:-----:|:-------------------------------------|:---------:|
 | 1     | Apresentação e introdução a algoritmos e logica de programação | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2     | Unix shell (básico) e Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
+| 2     | Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
 | 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
-| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples |  [python-intro-2](https://github.com/leouieda/python-intro-2) |
+| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples | [python-intro-2](https://github.com/leouieda/python-intro-2) |
 | 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
 | 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
-| 7     | Solução de sistemas lineares | |
-| 8     | Python: estruturação de um programa, funções e programação defensiva | |
+| 7     | Solução de sistemas lineares | [sistema-linear](https://github.com/leouieda/mat-esp-sistema-linear) |
+| 8     | Python: funções e programação defensiva | [funcoes](https://github.com/leouieda/mat-esp-funcoesa) |
 | 9     | Método dos mínimos quadrados | |
-| 10    | Transformada de Fourier | |
-| 11    | Solução de equações diferenciais parciais: método das diferenças finitas | |
-| 12    | Triângulos esféricos e representação de dados em mapas | |
-| 13    | Apresentação dos projetos | |
+| 10    | Equações diferenciais parciais: método das diferenças finitas | |
+| 11    | Triângulos esféricos e representação de dados em mapas | |
+| 12    | Aplicação a dados de geociências | |
 
 
 ## License
