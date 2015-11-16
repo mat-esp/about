@@ -9,22 +9,17 @@ Disciplina da graduação em Oceanografia da UERJ.
 * Turma 1: Quarta 15:10 - 17:50 e Quinta 12:30 - 14:20
 * Turma 2: Sexta 7:50 - 12:20
 
-**ATENÇÃO**: As aulas das duas turmas serão ministradas na sala ~~6145-2F a
-partir do dia 10/09/2015~~ **6134F** a partir do dia 16/09/2015.
+**ATENÇÃO**: As aulas das duas turmas serão ministradas na sala **6134F**
 
 **Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
 
 **Atendimento:** Segunda 13:30 - 14:30
 
-**Laboratório:** Os alunos podem utilizar o laboratório LAGEX (sala 2031A) para
-trabalhar nas práticas fora da aula. O LAGEX conta com computadores com Ubuntu
-Linux com git e Python já instalados. Também há mesas e internet para os que
-queiram trabalhar com seu próprio computador.
+**Laboratório:** Os alunos podem utilizar o laboratório LAGEX (sala **2031A**)
 
 **Lista de e-mail:** Os alunos devem se cadastrar na lista de e-mail do curso.
-Use o link abaixo para cadastrar seu e-mail:
-
-http://goo.gl/forms/I5epmPCg3e
+Use o seguinte link para cadastrar seu e-mail:
+[http://goo.gl/forms/I5epmPCg3e](http://goo.gl/forms/I5epmPCg3e)
 
 **TODOS OS COMUNICADOS SERÃO FEITOS ATRAVÉS DA LISTA DE E-MAIL.**
 
