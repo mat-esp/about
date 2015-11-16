@@ -61,10 +61,13 @@ Textos, códigos, slides, etc estarão disponíveis nesse site.
 
 ## Avaliação
 
-Teremos duas fontes de nota:
+~~Teremos duas fontes de nota:~~
 
-1. Média das notas das atividades práticas (70% da nota)
-2. Projeto realizado ao longo do curso (30% da nota)
+1. ~~Média das notas das atividades práticas (70% da nota)~~
+2. ~~Projeto realizado ao longo do curso (30% da nota)~~
+
+**[16/11/2015]: O projeto foi cancelado por falta de tempo. 
+A média final será 100% a média das práticas (ver abaixo).**
 
 As partes práticas das aulas serão baseadas no tema da semana.  Os alunos
 receberão instruções para realizar a prática referente ao tema e deverão
@@ -72,8 +75,8 @@ entregar a solução ao final da aula (um por grupo).  A média das práticas se
 feita com base nas notas de cada prática (uma por tema).  Para não prejudicar
 alunos que faltarem eventualmente, vou descartar as duas menores notas.
 
-Os projetos serão feitos em grupo, com um tema diferente para cada grupo (a
-definir). O projeto será desenvolvido ao longo do semestre.
+~~Os projetos serão feitos em grupo, com um tema diferente para cada grupo (a
+definir). O projeto será desenvolvido ao longo do semestre.~~
 
 ## Conduta
 
@@ -187,9 +190,6 @@ Vocês também devem criar uma conta gratuita no site
   reflete o seu sistema (Mac OSX). Tenha certeza de que está baixando
   a versão do **Python 3.4**, não a 2.7.
 
-## Projeto
-
-Em breve.
 
 ## Cronograma
 
