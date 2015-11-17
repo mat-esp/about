@@ -58,6 +58,28 @@ serão prejudicados. Precisaremos de ao menos um computador por grupo.
 
 Textos, códigos, slides, etc estarão disponíveis nesse site.
 
+## Cronograma
+
+Esse cronograma ainda não é definitivo. Provavelmente sofrerá alterações ao
+longo do semestre.
+
+**Cada prática inclui links e referências para o material relevante.**
+
+| Aula  | Tema                                 | Prática   |
+|:-----:|:-------------------------------------|:---------:|
+| 1     | Apresentação e introdução a algoritmos e logica de programação | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
+| 2     | Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
+| 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
+| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples | [python-intro-2](https://github.com/leouieda/python-intro-2) |
+| 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
+| 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
+| 7     | Solução de sistemas lineares | [sistema-linear](https://github.com/leouieda/mat-esp-sistema-linear) |
+| 8     | Python: funções e programação defensiva | [funcoes](https://github.com/leouieda/mat-esp-funcoesa) |
+| 9     | Método dos mínimos quadrados | |
+| 10    | Equações diferenciais parciais: método das diferenças finitas | |
+| 11    | Triângulos esféricos e representação de dados em mapas | |
+| 12    | Aplicação a dados de geociências | |
+
 ## Avaliação
 
 ~~Teremos duas fontes de nota:~~
@@ -134,6 +156,8 @@ A issue deverá seguir o padrão abaixo:
   comentário que achar necessário (ex: problemas com os commits, erros que foram
   arrumados depois, dificuldades, etc).
 
+Um exemplo de criação de uma Issue:
+
 ![Exemplo de uma Issue](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/exemplo-issue.png)
 
 ## Conduta
@@ -149,28 +173,6 @@ aula.  O limite de faltas em hora aula é de 18h (~3 aulas).
 **Cuidado com cópias e plágio.** Trabalhos que forem cópias integral ou parcial
 do trabalho de colegas ou de outras fontes receberão nota **zero**. Citem todas
 suas fontes de informação (mesmo que seja a Wikipedia).
-
-## Cronograma
-
-Esse cronograma ainda não é definitivo. Provavelmente sofrerá alterações ao
-longo do semestre.
-
-**Cada prática inclui links e referências para o material relevante.**
-
-| Aula  | Tema                                 | Prática   |
-|:-----:|:-------------------------------------|:---------:|
-| 1     | Apresentação e introdução a algoritmos e logica de programação | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2     | Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
-| 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
-| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples | [python-intro-2](https://github.com/leouieda/python-intro-2) |
-| 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
-| 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
-| 7     | Solução de sistemas lineares | [sistema-linear](https://github.com/leouieda/mat-esp-sistema-linear) |
-| 8     | Python: funções e programação defensiva | [funcoes](https://github.com/leouieda/mat-esp-funcoesa) |
-| 9     | Método dos mínimos quadrados | |
-| 10    | Equações diferenciais parciais: método das diferenças finitas | |
-| 11    | Triângulos esféricos e representação de dados em mapas | |
-| 12    | Aplicação a dados de geociências | |
 
 ## Bibliografia
 
