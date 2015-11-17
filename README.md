@@ -77,6 +77,40 @@ alunos que faltarem eventualmente, vou descartar as duas menores notas.
 ~~Os projetos serão feitos em grupo, com um tema diferente para cada grupo (a
 definir). O projeto será desenvolvido ao longo do semestre.~~
 
+
+### Avaliação das práticas
+
+Utilizaremos a lista abaixo para avaliar a solução entregue de cada prática.
+
+- [ ] Mensagens de commit que explicam claramente a mudança que foi feita
+  [total|parcial|zero] 0.5 pt
+- [ ] Formatação do código apropriada.
+  Ex: `espacamento = (maximo - minimo)/(N - 1)`,
+  `indices = range(0, N, 1)`, `dado = dados[i + 1]` == BOM.
+  `espacamento=(maximo-minimo)/ (N-1)`, `indices=range (0,N,1)`,
+  `dado= dados [i+ 1]` == RUIM [total|parcial|zero] 0.5 pt
+- [ ] Utilizar variáveis ao invés de colocar número "na mão".
+  Ex: `for i in range(0, N):`, `A[k][N - 1]` == BOM.
+  `for i in range(0, 39):`, `A[k][47]` == RUIM. [total|parcial|zero] 1 pt
+- [ ] Código com comentários que explicam "por que" algo foi feito, não só
+  "o que" foi feito [total|parcial|zero] 1 pt
+- [ ] Nomes de variáveis descritivos. Ex: `temperatura`, `media_por_hora`,
+  `linha`, `somatorio` == BOM. `a`, `var`, `meh`, `lista` == RUIM.
+  [total|parcial|zero] 2 pt
+- [ ] Código produz a solução correta (**exatamente** como especificado em
+  "Resultado esperado") [total|parcial|zero] 5 pt
+- [ ] Tarefa bônus [total|parcial|zero] 1 pt extra (não será considerado
+  caso a nota já seja 10)
+
+Cada critério de avaliação poderá receber pontuação:
+
+* Total: se atender **perfeitamente** ao critério
+* Parcial: (metade da nota) se atender parcialmente ao critério
+* Zero: se falhar ao critério
+
+Note que a nota máxima, incluindo a tarefa bônus, é 10.
+Cada grupo terá acesso a correção de sua solução.
+
 ## Conduta
 
 ### Assiduidade
