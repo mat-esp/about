@@ -77,7 +77,6 @@ alunos que faltarem eventualmente, vou descartar as duas menores notas.
 ~~Os projetos serão feitos em grupo, com um tema diferente para cada grupo (a
 definir). O projeto será desenvolvido ao longo do semestre.~~
 
-
 ### Avaliação das práticas
 
 Utilizaremos a lista abaixo para avaliar a solução entregue de cada prática.
@@ -110,6 +109,32 @@ Cada critério de avaliação poderá receber pontuação:
 
 Note que a nota máxima, incluindo a tarefa bônus, é 10.
 Cada grupo terá acesso a correção de sua solução.
+
+### Entrega das soluções
+
+A solução de cada prática será um repositório no [Github](http://github.com/)
+com o código feito pelos alunos (criado a partir dos templates no
+"Cronograma").
+A entrega das soluções será feita criando uma
+[Issue](https://guides.github.com/features/issues/)
+no repositório da disciplina
+[leouieda/matematica-especial](https://github.com/leouieda/matematica-especial/).
+Utilize o link abaixo para ir direto para as Issues:
+
+https://github.com/leouieda/matematica-especial/issues
+
+Cada grupo deve criar uma Issue para entragar cada prática.
+A issue deverá seguir o padrão abaixo:
+
+* Título: Deve conter o nome da prática seguido dos nomes dos integrantes do
+  grupo e a qual turma pertecem (caso haja mais de uma). Ex: "Prática
+  Integração: Bilbo, John, Arthur - Turma 1"
+* Corpo: Deve conter o link para o repositório do grupo (ex:
+  https://github.com/mat-esp-uerj/integracao-sociedade-42) e qualquer
+  comentário que achar necessário (ex: problemas com os commits, erros que foram
+  arrumados depois, dificuldades, etc).
+
+![Exemplo de uma Issue](https://raw.githubusercontent.com/leouieda/matematica-especial/master/images/exemplo-issue.png)
 
 ## Conduta
 
