@@ -130,7 +130,7 @@ A issue deverá seguir o padrão abaixo:
   grupo e a qual turma pertecem (caso haja mais de uma). Ex: "Prática
   Integração: Bilbo, John, Arthur - Turma 1"
 * Corpo: Deve conter o link para o repositório do grupo (ex:
-  https://github.com/mat-esp-uerj/integracao-sociedade-42) e qualquer
+  `https://github.com/mat-esp-uerj/integracao-sociedade-42`) e qualquer
   comentário que achar necessário (ex: problemas com os commits, erros que foram
   arrumados depois, dificuldades, etc).
 
