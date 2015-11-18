@@ -75,7 +75,7 @@ longo do semestre.
 | 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
 | 7     | Solução de sistemas lineares | [sistema-linear](https://github.com/leouieda/mat-esp-sistema-linear) |
 | 8     | Python: funções e programação defensiva | [funcoes](https://github.com/leouieda/mat-esp-funcoesa) |
-| 9     | Método dos mínimos quadrados | |
+| 9     | Método dos mínimos quadrados | [minimos-quadrados](https://github.com/leouieda/mat-esp-minimos-quadrados) |
 | 10    | Equações diferenciais parciais: método das diferenças finitas | |
 | 11    | Triângulos esféricos e representação de dados em mapas | |
 | 12    | Aplicação a dados de geociências | |
