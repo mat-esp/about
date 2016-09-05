@@ -1,0 +1,6 @@
+name: mat-esp
+dependencies:
+    - python=3.5
+    - numpy
+    - matplotlib
+    - jupyter
