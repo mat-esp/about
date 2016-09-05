@@ -213,19 +213,19 @@ longo do semestre.
 
 | Aula  | Tema                                 | Prática   |
 |:-----:|:-------------------------------------|:---------:|
-| 1     | Apresentação e introdução a algoritmos e logica de programação | [sort](https://github.com/leouieda/matematica-especial/blob/master/praticas/sort.md)   |
-| 2     | Controle de versão com git | [git](https://github.com/leouieda/matematica-especial/blob/master/praticas/git.md) |
-| 3     | Python: variáveis, loops, condições e gráficos simples | [python-intro](https://github.com/leouieda/mat-esp-python-intro-2015) |
-| 4     | Python: Jupyter notebook, lendo dados de arquivos e programas simples | [python-intro-2](https://github.com/leouieda/python-intro-2) |
-| 5     | Integração numérica | [integracao](https://github.com/leouieda/mat-esp-integracao) |
-| 6     | Matrizes e vetores | [matrizes-vetores](https://github.com/leouieda/mat-esp-matrizes-vetores) |
-| 7     | Solução de sistemas lineares | [sistema-linear](https://github.com/leouieda/mat-esp-sistema-linear) |
-| 8     | Python: funções e programação defensiva | [funcoes](https://github.com/leouieda/mat-esp-funcoesa) |
-| 9     | Método dos mínimos quadrados | [minimos-quadrados](https://github.com/leouieda/mat-esp-minimos-quadrados) |
+| 0     | Apresentação e introdução a algoritmos e logica de programação | [introducao](https://github.com/mat-esp/about/blob/master/introducao.md)   |
+| 1     | Controle de versão com git |  |
+| 2     | Python: variáveis, estruturas de dados e como usar funções | |
+| 3     | Python: bibliotecas e como fazer gráficos simples | |
+| 4     | Python: condições, repetindo ações |  |
+| 5     | Python: criando funções e programação defensiva |  |
+| 6     | Integração numérica |  |
+| 7     | Matrizes e vetores |  |
+| 8     | Solução de sistemas lineares | |
+| 9     | Método dos mínimos quadrados | |
 | 10    | Equações diferenciais parciais: método das diferenças finitas | |
 | 11    | Triângulos esféricos e representação de dados em mapas | |
 | 12    | Aplicação a dados de geociências | |
-
 
 
 ## Bibliografia
