@@ -6,9 +6,7 @@
 
 Disciplina da graduação em Oceanografia da UERJ.
 
-**Aulas:**
-
-Terça 12:30 - 15:10 e Quinta 12:30 - 14:20 - Sala 6134F
+**Aulas:** Terça 12:30 - 15:10 e Quinta 12:30 - 14:20 - Sala 6134F
 
 **Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
 
