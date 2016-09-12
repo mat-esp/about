@@ -6,9 +6,7 @@
 
 Disciplina da graduação em Oceanografia da UERJ.
 
-**Aulas:**
-
-Terça 12:30 - 15:10 e Quinta 12:30 - 14:20 - Sala 6134F
+**Aulas:** Terça 12:30 - 15:10 e Quinta 12:30 - 14:20 - Sala 6134F
 
 **Professor:** [Leonardo Uieda](http://www.leouieda.com/) - Sala 2019A
 
@@ -188,7 +186,7 @@ Utilize o link abaixo para ir direto para as Issues:
 
 https://github.com/mat-esp/about/issues
 
-Cada grupo deve criar uma Issue para entragar cada prática.
+Cada grupo deve criar uma Issue para entregar cada prática.
 A issue deverá seguir o padrão abaixo:
 
 * Título: Deve conter o nome da prática seguido dos nomes dos integrantes do
@@ -217,7 +215,7 @@ longo do semestre.
 | 1     | Controle de versão com git | [intro-git](https://github.com/mat-esp/intro-git) |
 | 2     | Python: variáveis, estruturas de dados e como usar funções | |
 | 3     | Python: bibliotecas e como fazer gráficos simples | |
-| 4     | Python: condições, repetindo ações |  |
+| 4     | Python: condições e repetindo ações |  |
 | 5     | Python: criando funções e programação defensiva |  |
 | 6     | Integração numérica |  |
 | 7     | Matrizes e vetores |  |
@@ -264,8 +262,7 @@ quase sempre de qualidade.
 
 Dicas para usar o terminal: [Notas de aula Métodos Computacionais em Física, UFRJ](http://www.if.ufrj.br/~sandra/MetComp/doc/unix_helder.pdf). Mais dicas e material na página da [disciplina](http://www.if.ufrj.br/~sandra/MetComp/2012-2/)
 
-Uma boa introdução ao linux em Português [aqui](http://www.guiafoca.org/?page_id=14)
-
+Uma boa introdução ao Linux em Português [aqui](http://www.guiafoca.org/?page_id=14)
 
 
 ## License
