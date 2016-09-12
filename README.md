@@ -213,8 +213,8 @@ longo do semestre.
 
 | Aula  | Tema                                 | Prática   |
 |:-----:|:-------------------------------------|:---------:|
-| 0     | Apresentação e introdução a algoritmos e logica de programação | [introducao](https://github.com/mat-esp/about/blob/master/introducao.md)   |
-| 1     | Controle de versão com git |  |
+| 0     | Apresentação e introdução a algoritmos e logica de programação | [introducao](https://github.com/mat-esp/about/blob/master/introducao.md) |
+| 1     | Controle de versão com git | [intro-git](https://github.com/mat-esp/intro-git) |
 | 2     | Python: variáveis, estruturas de dados e como usar funções | |
 | 3     | Python: bibliotecas e como fazer gráficos simples | |
 | 4     | Python: condições, repetindo ações |  |
