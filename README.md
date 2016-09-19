@@ -173,34 +173,6 @@ Cada critério de avaliação poderá receber pontuação:
 Note que a nota máxima, incluindo a tarefa bônus, é 10.  Cada grupo terá acesso
 a correção de sua solução.
 
-### Entrega das práticas
-
-A solução de cada prática será um repositório no [Github](http://github.com/)
-com o código feito pelos alunos (criado a partir dos templates no
-[Cronograma](#cronograma)).
-A entrega das soluções será feita criando uma
-[Issue](https://guides.github.com/features/issues/)
-no repositório da disciplina
-[mat-esp/about](https://github.com/mat-esp/about).
-Utilize o link abaixo para ir direto para as Issues:
-
-https://github.com/mat-esp/about/issues
-
-Cada grupo deve criar uma Issue para entregar cada prática.
-A issue deverá seguir o padrão abaixo:
-
-* Título: Deve conter o nome da prática seguido dos nomes dos integrantes do
-  grupo e a qual turma pertencem (caso haja mais de uma). Ex: "Prática
-  Integração: Bilbo, John, Arthur - Turma 1"
-* Corpo: Deve conter o link para o repositório do grupo (ex:
-  `https://github.com/mat-esp-2016/integracao-sociedade-42`) e qualquer
-  comentário que achar necessário (ex: problemas com os commits, erros que foram
-  arrumados depois, dificuldades, etc).
-
-Um exemplo de criação de uma Issue:
-
-![Exemplo de uma Issue](https://raw.githubusercontent.com/mat-esp/about/master/images/exemplo-issue.png)
-
 
 ## Cronograma
 
@@ -213,17 +185,18 @@ longo do semestre.
 |:-----:|:-------------------------------------|:---------:|
 | 0     | Apresentação e introdução a algoritmos e logica de programação | [introducao](https://github.com/mat-esp/about/blob/master/introducao.md) |
 | 1     | Controle de versão com git | [intro-git](https://github.com/mat-esp/intro-git) |
-| 2     | Python: variáveis, estruturas de dados e como usar funções | |
-| 3     | Python: bibliotecas e como fazer gráficos simples | |
-| 4     | Python: condições e repetindo ações |  |
-| 5     | Python: criando funções e programação defensiva |  |
-| 6     | Integração numérica |  |
-| 7     | Matrizes e vetores |  |
-| 8     | Solução de sistemas lineares | |
-| 9     | Método dos mínimos quadrados | |
-| 10    | Equações diferenciais parciais: método das diferenças finitas | |
-| 11    | Triângulos esféricos e representação de dados em mapas | |
-| 12    | Aplicação a dados de geociências | |
+| 2     | Python 1: variáveis, bibliotecas e gráficos simples | |
+| 3     | Python 2: condições e repetindo ações |  |
+| 4     | Python 3: criando funções e programação defensiva |  |
+| 5     | Python 4: extraindo informação de arquivos de texto |  |
+| 6     | Python 5: scripts e argumentos de linha de comando |  |
+| 7     | Integração numérica |  |
+| 8     | Matrizes e vetores |  |
+| 9     | Solução de sistemas lineares | |
+| 10    | Método dos mínimos quadrados | |
+| 11    | Equações diferenciais parciais: método das diferenças finitas | |
+| 12    | Triângulos esféricos e representação de dados em mapas | |
+| 13    | Aplicação a dados de geociências | |
 
 
 ## Bibliografia
