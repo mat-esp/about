@@ -76,23 +76,13 @@ numérica de sistemas lineares. Aplicações à oceanografia.
 
 ## Preparação
 
-Vocês precisarão de alguns programas para realizar as atividades práticas e o
-projeto:
-
-* [Python](https://www.python.org/): linguagem de programação que vamos
-  utilizar
-* [git](http://www.git-scm.com/): sistema de controle de versão
-* [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29): "Bourne Again
-  Shell" para executar programas na linha de comando
-* Algum editor de texto (Notepad, Gedit, etc)
-
-**Sigam as instruções abaixo** para instalar esses programas no seu computador
-**antes de vir para a aula**. Também levarei instaladores na aula caso alguém
-tenha problemas.
-
-**Crie uma conta** gratuita no site [github.com](https://github.com/)
-
-**Se tiver problemas, escreva para a lista de e-mails.**
+1. **Sigam as instruções abaixo** para instalar no seu computador os programas
+   que iremos utilizar nas aulas práticas e para fazer as tarefas. Faça isso 
+   **antes de vir para a aula**. Também levarei instaladores na aula caso alguém
+   tenha problemas.
+2. **Crie uma conta** gratuita no site [github.com](https://github.com/).
+3. Se inscreva na **lista de emails** (ver [Informações](#informações)).
+4. Se tiver problemas, escreva para a lista.
 
 ### Windows
 
