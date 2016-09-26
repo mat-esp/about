@@ -176,7 +176,7 @@ longo do semestre.
 | 0     | Apresentação e introdução a algoritmos e logica de programação | [introducao](https://github.com/mat-esp/about/blob/master/introducao.md) |
 | 1     | Controle de versão com git | [intro-git](https://github.com/mat-esp/intro-git) |
 | 2     | Python 1: variáveis, bibliotecas e gráficos simples | [python-1](https://github.com/mat-esp/python-1) |
-| 3     | Python 2: condições e repetindo ações |  |
+| 3     | Python 2: condições e repetindo ações | [python-2](https://github.com/mat-esp/python-2) |
 | 4     | Python 3: criando funções e programação defensiva |  |
 | 5     | Python 4: extraindo informação de arquivos de texto |  |
 | 6     | Python 5: scripts e argumentos de linha de comando |  |
