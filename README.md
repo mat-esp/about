@@ -77,7 +77,7 @@ numérica de sistemas lineares. Aplicações à oceanografia.
 ## Preparação
 
 1. **Sigam as instruções abaixo** para instalar no seu computador os programas
-   que iremos utilizar nas aulas práticas e para fazer as tarefas. Faça isso 
+   que iremos utilizar nas aulas práticas e para fazer as tarefas. Faça isso
    **antes de vir para a aula**. Também levarei instaladores na aula caso alguém
    tenha problemas.
 2. **Crie uma conta** gratuita no site [github.com](https://github.com/).
@@ -177,10 +177,10 @@ longo do semestre.
 | 1     | Controle de versão com git | [intro-git](https://github.com/mat-esp/intro-git) |
 | 2     | Python 1: variáveis, bibliotecas e gráficos simples | [python-1](https://github.com/mat-esp/python-1) |
 | 3     | Python 2: condições e repetindo ações | [python-2](https://github.com/mat-esp/python-2) |
-| 4     | Python 3: criando funções e programação defensiva |  |
-| 5     | Python 4: extraindo informação de arquivos de texto |  |
-| 6     | Python 5: scripts e argumentos de linha de comando |  |
-| 7     | Integração numérica |  |
+| 4     | Python 3: criando funções e programação defensiva | [python-3](https://github.com/mat-esp/python-3) |
+| 5     | Python 4: extraindo informação de arquivos de texto | [python-4](https://github.com/mat-esp/python-4) |
+| 6     | Python 5: scripts e argumentos de linha de comando | [python-5](https://github.com/mat-esp/python-5) |
+| 7     | Integração numérica | [integracao-numerica](https://github.com/mat-esp/integracao-numerica) |
 | 8     | Matrizes e vetores |  |
 | 9     | Solução de sistemas lineares | |
 | 10    | Método dos mínimos quadrados | |
