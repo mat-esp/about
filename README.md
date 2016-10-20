@@ -179,7 +179,7 @@ longo do semestre.
 | 3     | Python 2: condições e repetindo ações | [python-2](https://github.com/mat-esp/python-2) |
 | 4     | Python 3: criando funções e programação defensiva | [python-3](https://github.com/mat-esp/python-3) |
 | 5     | Python 4: extraindo informação de arquivos de texto | [python-4](https://github.com/mat-esp/python-4) |
-| 6     | Python 5: scripts e argumentos de linha de comando | [python-5](https://github.com/mat-esp/python-5) |
+| 6     | Aula de revisão e dúvidas (Semana do IME) |
 | 7     | Integração numérica | [integracao-numerica](https://github.com/mat-esp/integracao-numerica) |
 | 8     | Matrizes e vetores |  |
 | 9     | Solução de sistemas lineares | |
