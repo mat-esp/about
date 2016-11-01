@@ -181,7 +181,7 @@ longo do semestre.
 | 5     | Python 4: extraindo informação de arquivos de texto | [python-4](https://github.com/mat-esp/python-4) |
 | 6     | Aula de revisão e dúvidas (Semana do IME) |
 | 7     | Integração numérica | [integracao-numerica](https://github.com/mat-esp/integracao-numerica) |
-| 8     | Matrizes e vetores |  |
+| 8     | Matrizes e vetores | [matrizes e vetores](https://github.com/mat-esp/matrizes-vetores) |
 | 9     | Solução de sistemas lineares | |
 | 10    | Método dos mínimos quadrados | |
 | 11    | Equações diferenciais parciais: método das diferenças finitas | |
