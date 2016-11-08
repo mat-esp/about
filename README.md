@@ -182,11 +182,12 @@ longo do semestre.
 | 6     | Aula de revisão e dúvidas (Semana do IME) |
 | 7     | Integração numérica | [integracao-numerica](https://github.com/mat-esp/integracao-numerica) |
 | 8     | Matrizes e vetores | [matrizes e vetores](https://github.com/mat-esp/matrizes-vetores) |
-| 9     | Solução de sistemas lineares | |
-| 10    | Método dos mínimos quadrados | |
-| 11    | Equações diferenciais parciais: método das diferenças finitas | |
-| 12    | Triângulos esféricos e representação de dados em mapas | |
-| 13    | Aplicação a dados de geociências | |
+| 9     | Método das diferenças finitas: Convecção | [diferencas-finitas-conveccao](https://github.com/mat-esp/diferencas-finitas-conveccao) |
+| 10    | Método das diferenças finitas: Difusão |  |
+| 11    | Solução de sistemas lineares | |
+| 12    | Método dos mínimos quadrados | |
+| 13    | Triângulos esféricos e representação de dados em mapas | |
+| 14    | Aplicação a dados de geociências | |
 
 
 ## Bibliografia
