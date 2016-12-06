@@ -184,10 +184,10 @@ longo do semestre.
 | 8     | Matrizes e vetores | [matrizes e vetores](https://github.com/mat-esp/matrizes-vetores) |
 | 9     | Método das diferenças finitas: Convecção | [diferencas-finitas-conveccao](https://github.com/mat-esp/diferencas-finitas-conveccao) |
 | 10    | Método das diferenças finitas: Difusão | [diferencas-finitas-difusao](https://github.com/mat-esp/diferencas-finitas-difusao) |
-| 11    | Solução de sistemas lineares | |
-| 12    | Método dos mínimos quadrados | |
-| 13    | Triângulos esféricos e representação de dados em mapas | |
-| 14    | Aplicação a dados de geociências | |
+| 11    | Solução de sistemas lineares | -- |
+| 12    | Método dos mínimos quadrados | -- |
+| 13    | Triângulos esféricos e representação de dados em mapas | -- |
+| 14    | Aplicação a dados de geociências | [capstone](https://github.com/mat-esp/capstone) |
 
 
 ## Bibliografia
